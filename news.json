@@ -21,5 +21,13 @@
         "description": "Achei que não ia mais jogar futebol, diz jogadora da Ferroviária sobre dificuldades da gravidez em atletas de alto rendimento",
         "image": "C:/Users/ADEBARB/documents/dio-santander-mobile/soccer-news-api/soccer-news-api/images/image3.png.webp",
         "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/noticia/2022/05/08/mae-e-meia-de-portugal-suzane-vira-referencia-ao-conciliar-maternidade-com-carreira-de-atleta.ghtml"
+    },
+
+    {
+        "id": 4,
+        "title": "Estava buscando desde o jogo do Uruguai",
+        "description": "Vitória de 4 a 0 diante da Venezuela ainda garante vaga antecipada ao Brasil nas semis da Copa América",
+        "image": "C:/Users/ADEBARB/documents/dio-santander-mobile/soccer-news-api/soccer-news-api/images/image4.webp",
+        "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/19/ary-borges-celebra-primeiro-gol-pela-selecao-em-jogo-oficial-estava-buscando-desde-o-jogo-do-uruguai.ghtml"
     }
 ]
