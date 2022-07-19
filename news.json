@@ -1,8 +1,25 @@
 [
     {
         "id": 1,
+        "title": "Palmeiras líder",
+        "description": "Palmeiras líder, Cristiane artilheira, classificados e rebaixados: veja balanço do Brasileiro Feminino",
+        "image": "C:/Users/ADEBARB/documents/dio-santander-mobile/soccer-news-api/soccer-news-api/images/image1.png.webp",
+        "link": "https://ge.globo.com/sp/campinas-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2022/06/21/palmeiras-lider-cristiane-artilheira-classificados-e-rebaixados-veja-balanco-do-brasileiro-feminino.ghtml"
+    },
+    
+    {
+        "id": 2,
         "title": "descansar mente",
         "description": "Ferroviária quer recuperar ataque para “descansar mente” durante pausa no Brasileiro feminino",
-        "image": ""
+        "image": "C:/Users/ADEBARB/documents/dio-santander-mobile/soccer-news-api/soccer-news-api/images/image2.png.webp",
+        "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/times/ferroviaria/noticia/2022/06/16/ferroviaria-quer-recuperar-ataque-para-descansar-mente-durante-pausa-no-brasileiro-feminino.ghtml" 
+    },
+
+    {
+        "id": 3,
+        "title": "Suzane vira referência",
+        "description": "Achei que não ia mais jogar futebol, diz jogadora da Ferroviária sobre dificuldades da gravidez em atletas de alto rendimento",
+        "image": "C:/Users/ADEBARB/documents/dio-santander-mobile/soccer-news-api/soccer-news-api/images/image3.png.webp",
+        "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/noticia/2022/05/08/mae-e-meia-de-portugal-suzane-vira-referencia-ao-conciliar-maternidade-com-carreira-de-atleta.ghtml"
     }
 ]
